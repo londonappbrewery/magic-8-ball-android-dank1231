@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">Magic Eight Ball</string>
+    <string name="Quote">Take the easy route!</string>
+    <string name="buttext">Ask And Press!</string>
+
 </resources>
